@@ -1,6 +1,6 @@
-# Translation Noise in Multilingual Sentiment Features: Simulation Study
+# Assessing Financial Risks in Global Trade Through Multilingual Sentiment Analysis
 
-Code accompanying the paper **"[Your paper title here]"** ([Your Name], [Year]).
+Code accompanying the paper **Assessing Financial Risks in Global Trade Through Multilingual Sentiment Analysis"** (Mahnoor Khan, Muhammad Asad Naeem).
 
 This repository contains a fully **synthetic** simulation study of how machine-translation (MT) errors in multilingual news-sentiment features degrade a graph neural network (GNN) that predicts sanction impact on a trade network. No real data are used.
 
@@ -77,4 +77,4 @@ All randomness is seeded (world seeds 0–39; corruption RNG seeded from the wor
 
 ## License
 
-[Choose a license, e.g. MIT]
+MIT
